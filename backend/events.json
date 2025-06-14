@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Google I/O Keynote ","image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFPLJTG9cLFk/v1/-1x-1.webp","date":"2025-07-12","description":"AI Tools Google","id":"fd9b01de-b504-43a7-920f-bb301dcf6563"},{"title":"GOOGLE CLOUD NEXT ","image":"https://storage.googleapis.com/gweb-cloudblog-publish/images/GOOGLENEXT2024_0410_102815-1522_ALIVECOVER.max-2600x2600.jpg","date":"2025-07-01","description":"Next Event By GOOGLE","id":"a38ea83e-f90e-4962-85c7-e328782d9031"},{"title":"Google I/O 2025","image":"https://images.indianexpress.com/2025/05/Google-IO-2025-2.jpg","date":"2025-06-30","description":"Dave Krisopras Essanto is a GDE for Web Development","id":"b7f6ee1e-ddee-4f1a-9347-37ff4098986d"},{"title":"Google Summit","image":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/JuaraGCP.width-1300.jpg","date":"2025-06-20","description":"Dave is a GDE","id":"1dd1cffb-b0e1-42e2-aa0f-237613b8f3c1"}]}
